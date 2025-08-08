@@ -4,7 +4,7 @@
 
 Simple Python tool to record and replay keyboard/mouse inputs for automation.
 
-Created this to farm XP and coins in Sekiro.
+Created this to farm XP and coins in Sekiro.(not working currently)
 
 ## Quick Start
 
