@@ -1,5 +1,3 @@
-
-
 # InputAutomator - Record & Replay Mouse/Keyboard Actions
 
 Simple Python tool to record and replay keyboard/mouse inputs for automation.
